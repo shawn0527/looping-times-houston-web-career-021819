@@ -4,7 +4,3 @@ def using_times
   end
 	#your code here
 end
-
-
-
-
